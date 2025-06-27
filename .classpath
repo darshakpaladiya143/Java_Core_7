@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JDK-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files/selenium java/poi/commons-collections4-4.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/selenium java/poi/commons-collections4-4.5.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/selenium java/poi/commons-collections4-4.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/selenium java/poi/commons-collections4-4.5.0-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/selenium java/poi/commons-collections4-4.5.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/selenium java/poi/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/selenium java/poi/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/selenium java/poi/poi-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/selenium java/poi/poi-ooxml-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/selenium java/poi/poi-ooxml-schemas-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/selenium java/poi/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
