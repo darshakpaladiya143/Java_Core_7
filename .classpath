@@ -17,5 +17,7 @@
 	<classpathentry kind="lib" path="C:/Program Files/selenium java/poi/poi-ooxml-4.1.0.jar"/>
 	<classpathentry kind="lib" path="C:/Program Files/selenium java/poi/poi-ooxml-schemas-4.1.0.jar"/>
 	<classpathentry kind="lib" path="C:/Program Files/selenium java/poi/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/selenium java/poi/log4j-api-2.20.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/selenium java/poi/log4j-core-2.20.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
